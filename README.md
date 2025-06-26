@@ -1,0 +1,1 @@
+### 启动服务时要注意mysql的host，本地启动用localhost， docker启动用host.docker.internal

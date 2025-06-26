@@ -1,0 +1,16 @@
+Flask
+requests
+numpy
+pandas
+plotly
+openai
+vanna[chromadb,mysql]
+scikit-learn
+sqlalchemy
+dotenv
+werkzeug
+matplotlib
+Pillow
+IPython
+chromadb
+cryptography
